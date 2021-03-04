@@ -7,7 +7,7 @@
 <img align="right" src="https://github.com/anubhavv1998/anubhavv1998/blob/main/Assistant.gif" height="400" width="450">
 
 [![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
-[![](https://img.shields.io/badge/Twitter-AnubhavSingh-skyblue)](https://twitter.com/Anubhav02017/)
+[![](https://img.shields.io/badge/Twitter-SamarthKanchan-skyblue)](https://twitter.com/SamKanchan3)
 [![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
 [![](https://img.shields.io/badge/Portfolio-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)
 [![](https://img.shields.io/badge/GeeksForGeeks-AnubhavSingh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
