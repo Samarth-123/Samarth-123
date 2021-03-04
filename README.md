@@ -1,6 +1,6 @@
 <p>
   
-  <h1 align='center'>Hey there, I'm Anubhav Singh</h1>
+  <h1 align='center'>Hey there, I'm Samarth Kanchan</h1>
 
 </p>
 
@@ -49,19 +49,19 @@
 <br/>
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-anubhavv1998&label=PROFILE+VIEWS)<hr>
+![](https://komarev.com/ghpvc/?username=your-github-Samarth-123label=PROFILE+VIEWS)<hr>
 
 <h2 style="block">Github Stats</h2>
 <p width="100%">
-  <a href="https://github.com/anubhavv1998">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=anubhavv1998&theme=highcontrast&show_icons=true&count_private=true" />
+  <a href="https://github.com/Samarth-123">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Samarth-123&theme=highcontrast&show_icons=true&count_private=true" />
   </a>
 </p>
 
 <h2 style="block">Code in Languages</h2>
   <p width="100%">
-    <a href="https://github.com/anubhavv1998">
-      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavv1998&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    <a href="https://github.com/Samarth-123">
+      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-123&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
   </p>
 
