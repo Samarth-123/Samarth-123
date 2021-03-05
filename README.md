@@ -4,16 +4,16 @@
 
 </p>
 
-<img align="right" src="https://github.com/anubhavv1998/anubhavv1998/blob/main/Assistant.gif" height="400" width="450">
+<img align="right" src="https://github.com/anubhavv1998/Samarth-123/blob/main/developer.gif" height="400" width="500">
 
-[![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
+[![](https://img.shields.io/badge/LinkedIn-Samarth-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
 [![](https://img.shields.io/badge/Twitter-SamarthKanchan-skyblue)](https://twitter.com/SamKanchan3)
-[![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
-[![](https://img.shields.io/badge/Portfolio-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)
-[![](https://img.shields.io/badge/GeeksForGeeks-AnubhavSingh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
-[![](https://img.shields.io/badge/YouTube-AnubhavSingh-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
+[![](https://img.shields.io/badge/HackerRank-Samarth-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
+[![](https://img.shields.io/badge/Portfolio-Samarth-orange)](https://anubhavv1998.github.io/anubhav/)
+[![](https://img.shields.io/badge/GeeksForGeeks-Samarth-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
+[![](https://img.shields.io/badge/YouTube-Samarth-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
 [![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
-[![](https://img.shields.io/badge/Discord-anubhavsingh-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
+[![](https://img.shields.io/badge/Discord-Samarth-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
 
 <br>
 
@@ -30,6 +30,46 @@
 ### I write contents for newspaper
 
 <hr>
+
+<h2 style="block">Github Stats</h2>
+<p width="100%">
+  <a href="https://github.com/Samarth-123">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Samarth-123&theme=highcontrast&show_icons=true&count_private=true" />
+  </a>
+</p>
+
+<h2 style="block">Code in Languages</h2>
+  <p width="100%">
+    <a href="https://github.com/Samarth-123">
+      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-123&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    </a>
+  </p>
+
+<!--
+  <h2 style="block">  Projects <h2>
+  <p width="100%">
+    <a href="https://github.com/Samarth-123/SAIRA-Desktop-Assistant">
+      <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Samarth-123&repo=SAIRA-Desktop-Assistant&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    </a>
+      <br><br>
+
+    <a href="https://github.com/Samarth-123/EmployeeLoanMgt">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Samarth-123&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    </a>
+    <br><br>
+    <a href="https://github.com/Samarth-123/EazyPeazy">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Samarth-123&repo=EazyPeazy&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    </a>
+    <br><br>
+    <a href="https://github.com/Samarth-123/Book-Navigator-GCExtention">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Samarth-123&repo=Book-Navigator-GCExtention&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    </a>
+    <br><br>
+    <a href="https://github.com/Samarth-123/E-Book_Services">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Samarth-123&repo=E-Book_Services&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    </a>
+    </p>
+ -->
 
 ## Languages and Tools:
 
@@ -49,45 +89,7 @@
 <br/>
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-Samarth-123label=PROFILE+VIEWS)<hr>
-
-<h2 style="block">Github Stats</h2>
-<p width="100%">
-  <a href="https://github.com/Samarth-123">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Samarth-123&theme=highcontrast&show_icons=true&count_private=true" />
-  </a>
-</p>
-
-<h2 style="block">Code in Languages</h2>
-  <p width="100%">
-    <a href="https://github.com/Samarth-123">
-      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-123&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-  </p>
-
-  <h2 style="block">  Projects <h2>
-  <p width="100%">
-    <a href="https://github.com/anubhavv1998/SAIRA-Desktop-Assistant">
-      <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=SAIRA-Desktop-Assistant&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-      <br><br>
-
-   <a href="https://github.com/anubhavv1998/EmployeeLoanMgt">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/anubhavv1998/EazyPeazy">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EazyPeazy&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/anubhavv1998/Book-Navigator-GCExtention">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=Book-Navigator-GCExtention&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/anubhavv1998/E-Book_Services">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=E-Book_Services&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-</p>
+![](https://komarev.com/ghpvc/?username=your-github-Samarth-123&label=PROFILE+VIEWS)<hr>
 
 
 <!--
@@ -99,7 +101,7 @@ code snippits here
 -->
 <hr>
 
-⚡ From  [Anubhav Singh](https://github.com/anubhavv1998)<br><br>
+⚡ From  [Samarth Kanchan](https://github.com/Samarth-123)<br><br>
 
 
 
